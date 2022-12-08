@@ -1,3 +1,4 @@
+console.clear()
 //Aula 1
 
 //scope
